@@ -6,6 +6,7 @@ keywords: IPTV,直播源,IPTV直播源,直播电视,电视直播,CCTV,全套卫�
 permalink: /
 ---
 
+> **Mirror maintained by ET6jt3.** Upstream project: [vbskycn/iptv](https://github.com/vbskycn/iptv). Channel data is synchronized automatically every 6 hours; upstream attribution and license remain intact.
 
 <h2 align="center">✯ 这是一个国内可直连的iptv直播源分享项目 ✯</h2>
 
@@ -52,23 +53,23 @@ permalink: /
   </tr>
   <tr>
     <td>TXT 格式直播源</td>
-    <td><a href="https://live.zbds.top/tv/iptv4.txt">https://live.zbds.top/tv/iptv4.txt</a></td>
-    <td><button class="button" onclick="copyToClipboard('https://live.zbds.top/tv/iptv4.txt')">快速复制</button></td>
+    <td><a href="https://ET6jt3.github.io/iptv/tv/iptv4.txt">https://ET6jt3.github.io/iptv/tv/iptv4.txt</a></td>
+    <td><button class="button" onclick="copyToClipboard('https://ET6jt3.github.io/iptv/tv/iptv4.txt')">快速复制</button></td>
   </tr>
   <tr>
     <td>M3U 格式直播源（已带台标和EPG）</td>
-    <td><a href="https://live.zbds.top/tv/iptv4.m3u">https://live.zbds.top/tv/iptv4.m3u</a></td>
-    <td><button class="button" onclick="copyToClipboard('https://live.zbds.top/tv/iptv4.m3u')">快速复制</button></td>
+    <td><a href="https://ET6jt3.github.io/iptv/tv/iptv4.m3u">https://ET6jt3.github.io/iptv/tv/iptv4.m3u</a></td>
+    <td><button class="button" onclick="copyToClipboard('https://ET6jt3.github.io/iptv/tv/iptv4.m3u')">快速复制</button></td>
   </tr>
 </table>
 *如果你打不开github域名，请使用加速地址访问，加速地址也失效了？那就在找一个*
 
 ```
-https://gh-proxy.com/raw.githubusercontent.com/vbskycn/iptv/refs/heads/master/tv/iptv4.txt
+https://gh-proxy.com/raw.githubusercontent.com/ET6jt3/iptv/refs/heads/master/tv/iptv4.txt
 ```
 
 ```
-https://gh-proxy.com/raw.githubusercontent.com/vbskycn/iptv/refs/heads/master/tv/iptv4.m3u
+https://gh-proxy.com/raw.githubusercontent.com/ET6jt3/iptv/refs/heads/master/tv/iptv4.m3u
 ```
 
 
@@ -95,24 +96,24 @@ https://gh-proxy.com/raw.githubusercontent.com/vbskycn/iptv/refs/heads/master/tv
   </tr>
   <tr>
     <td>TXT 格式直播源</td>
-    <td><a href="https://live.zbds.top/tv/iptv6.txt">https://live.zbds.top/tv/iptv6.txt</a></td>
-    <td><button class="button" onclick="copyToClipboard('https://live.zbds.top/tv/iptv6.txt')">快速复制</button></td>
+    <td><a href="https://ET6jt3.github.io/iptv/tv/iptv6.txt">https://ET6jt3.github.io/iptv/tv/iptv6.txt</a></td>
+    <td><button class="button" onclick="copyToClipboard('https://ET6jt3.github.io/iptv/tv/iptv6.txt')">快速复制</button></td>
   </tr>
   <tr>
     <td>M3U 格式直播源（已带台标和EPG）</td>
-    <td><a href="https://live.zbds.top/tv/iptv6.m3u">https://live.zbds.top/tv/iptv6.m3u</a></td>
-    <td><button class="button" onclick="copyToClipboard('https://live.zbds.top/tv/iptv6.m3u')">快速复制</button></td>
+    <td><a href="https://ET6jt3.github.io/iptv/tv/iptv6.m3u">https://ET6jt3.github.io/iptv/tv/iptv6.m3u</a></td>
+    <td><button class="button" onclick="copyToClipboard('https://ET6jt3.github.io/iptv/tv/iptv6.m3u')">快速复制</button></td>
   </tr>
 </table>
 
 *有地方的宽带运营商已经污染本项目域名了，如果你打开失败，请使用加速地址访问*
 
 ```
-https://gh-proxy.com/raw.githubusercontent.com/vbskycn/iptv/refs/heads/master/tv/iptv6.txt
+https://gh-proxy.com/raw.githubusercontent.com/ET6jt3/iptv/refs/heads/master/tv/iptv6.txt
 ```
 
 ```
-https://gh-proxy.com/raw.githubusercontent.com/vbskycn/iptv/refs/heads/master/tv/iptv6.m3u
+https://gh-proxy.com/raw.githubusercontent.com/ET6jt3/iptv/refs/heads/master/tv/iptv6.m3u
 ```
 
 
@@ -133,7 +134,7 @@ https://gh-proxy.com/raw.githubusercontent.com/vbskycn/iptv/refs/heads/master/tv
 
 ### 直播源开源站点地址
 
-- [https://live.zbds.top/](https://live.zbds.top/)
+- [https://ET6jt3.github.io/iptv/](https://ET6jt3.github.io/iptv/)
 
 
 
