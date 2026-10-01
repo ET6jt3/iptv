@@ -32,12 +32,12 @@ jobs:
           JEKYLL_ENV: production
         run: bundle exec jekyll build
 
-      - name: Deploy to gh-pages
+      - name: Deploy to gh
         uses: peaceiris/actions-gh-pages@v4
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./_site
-          publish_branch: gh-pages
+          publish_branch: gh
           force_orphan: true
           user_name: github-actions[bot]
           user_email: 41898282+github-actions[bot]@users.noreply.github.com
